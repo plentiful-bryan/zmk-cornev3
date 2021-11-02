@@ -10,6 +10,7 @@
 #define DEFAULT 0
 #define LOWER   1
 #define RAISE   2
+#define ADJUST  3
 / {
         keymap {
                 compatible = "zmk,keymap";
